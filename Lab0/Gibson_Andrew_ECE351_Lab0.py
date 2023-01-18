@@ -5,7 +5,7 @@
 # ECE 351 lab, Section 53 #
 # Lab 0 #
 # Due 24 Jan 2023 #
-# Installation of Python 3.x #
+# Setting up the Environment #
 # #
 ################################################################
 import numpy
