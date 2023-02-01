@@ -106,14 +106,14 @@ plt.legend(["f_1★f_2","f_2★f_3","f_1★f_3"])
 
 #Q1)  Did you work alone or with classmates on this lab? If you collaborated
 #   to get to the solution, what did that process look like?
-#A1)  I worked alone, but was given the formula for descrete convolution where
+#A1)  I worked alone, but was given the formula for discrete convolution where
 #   the time interval is static. I implemented the formula with two for loops,
 #   however the return value was incorrect, as I made the error to sum over the
 #   wrong itterator ("y[i] += ", when I should have used "y[j] += ").
 
 #Q2)  What was the most difficult part of this lab for you, and what did 
 #   your problem-solving process look like?
-#A2)  the most difficult part of this lab was understanding the descrete 
+#A2)  the most difficult part of this lab was understanding the discrete 
 #   convolution function.  Once I understood it i could create it via code.
 #   However, I also ran into issues where I was trying to use a sum function 
 #   to use only one for loop, however that wouldn't have worked as I would have
@@ -124,7 +124,7 @@ plt.legend(["f_1★f_2","f_2★f_3","f_1★f_3"])
 #A3)  My approach was to treat each datapoint as a step function being added, 
 #   which would have made things more convusing especially with a plethora 
 #   ramps showing up that would have to be resolved.  That method went out the
-#   the window once I understood descrete convolution. My final aproach would 
+#   the window once I understood discrete convolution. My final aproach would 
 #   best be descrived as analytical.
 
 #Q4)  Leave any feedback on the clarity of lab tasks, expectations, and 
