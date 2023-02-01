@@ -109,7 +109,7 @@ plt.legend(["f_1★f_2","f_2★f_3","f_1★f_3"])
 #A1)  I worked alone, but was given the formula for discrete convolution where
 #   the time interval is static. I implemented the formula with two for loops,
 #   however the return value was incorrect, as I made the error to sum over the
-#   wrong itterator ("y[i] += ", when I should have used "y[j] += ").
+#   wrong iterator ("y[i] += ", when I should have used "y[j] += ").
 
 #Q2)  What was the most difficult part of this lab for you, and what did 
 #   your problem-solving process look like?
