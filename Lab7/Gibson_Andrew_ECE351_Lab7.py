@@ -239,7 +239,7 @@ print("f_zp", f_zp)
 
 
 #----task3----
-#because there are complex roots, there is no convergance to a single value,
+#because there are complex roots, there is no convergence to a single value,
 #however, those roots could explode.
 
 #take the inverse laplace of the term 1/(s+a+bj)
