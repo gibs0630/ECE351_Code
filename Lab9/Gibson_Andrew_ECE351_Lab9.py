@@ -366,7 +366,7 @@ signalFourierReport(t,f_15,fs, 7, 'Fourier Series of square wave to 15 terms wit
 
 # Questions
 #Q2) What difference does eliminating the small phase magnitudes make?
-#A2) eliminating the noise in the phase (which is caused by boolean algebra 
+#A2) eliminating the noise in the phase (which is caused by Boolean algebra 
 # error when the computer calculates it) allows us to see the phases of the
 # frequencies that have a significant effect.
 
@@ -377,7 +377,7 @@ signalFourierReport(t,f_15,fs, 7, 'Fourier Series of square wave to 15 terms wit
 #ℱ{cos(2 π f_t)} = 1/2 [δ(f-f_0)+δ(f+f_0)]
 #A3)#from task 1, there are 0.5 tall spikes at -1 and 1, and the phases at -1
 # and 1 are 0.
-#0.5 δ(f=1)+ 0.5 δ(f-1) = 0.5 [δ(f=1)+δ(f-1)] = ℱ{cos(2 π 1)}
+#0.5 δ(f+1)+ 0.5 δ(f-1) = 0.5 [δ(f=1)+δ(f-1)] = ℱ{cos(2 π 1)}
 
 #from task 2, there are 2.5 tall spikes at -1 and 1, and the phases are at
 # about 1.5 and -1.5 respectively (1.5 is approximately pi/2)
