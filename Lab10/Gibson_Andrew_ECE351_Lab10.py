@@ -5,7 +5,7 @@
 # ECE 351 lab, Section 53 #
 # Lab 10 #
 # Due 4 Apr 2023 #
-# User-Defined Functions #
+# Frequency Response #
 # https://github.com/gibs0630/ECE351\_Code #
 # https://github.com/gibs0630/ECE351\_Reports #
 # #
